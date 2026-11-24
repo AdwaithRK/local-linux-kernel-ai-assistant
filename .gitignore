@@ -1,0 +1,14 @@
+# Vector database
+kernel_db/
+
+# Linux source
+linux/
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Local configuration
+.env
